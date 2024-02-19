@@ -1,7 +1,7 @@
 Config = {}
 
 Config.HelpDuration = 5000 -- progressbar duration
-Config.Minigame = true  --- true and false
+Config.Minigame = false  --- true and false
 
 Config.ReviveConfig = {
     PaymentType = 'cash', -- cash and bank
